@@ -17,8 +17,9 @@ jobs:
         with:
           root_file: my_business_card/card.tex
 
-      - name: Upload PDF file
+      - name: Upload PDF
         uses: actions/upload-artifact@v4
         with:
           name: business-card-pdf
           path: my_business_card/card.pdf
+          
