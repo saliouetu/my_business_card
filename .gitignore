@@ -16,6 +16,8 @@
 *_LOCAL_*.txt
 *_REMOTE_*.txt
 
+card.pdf
+
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
 *.aux
