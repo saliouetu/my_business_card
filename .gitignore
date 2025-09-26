@@ -386,4 +386,14 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+
+# .DS_Store
+*.Ds_Store
+
+# .Rhistory
+*.Rhistory
+
+# card.aux
+card.aux
+
 # End of https://www.toptal.com/developers/gitignore/api/latex,linux,windows,visualstudiocode,git
