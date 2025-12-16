@@ -4,7 +4,7 @@ name: Build LaTeX Business Card
 on:
   push:
     tags:
-      - '*'  # déclenche sur chaque nouveau tag
+      - '*'  
 
 jobs:
   build_latex:
